@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "egG4Jhhvrem6xISH+DoARTtJyuMOYw2wKAO0y/YcTGLI+Qc8aqkwGwUfg8r/JGValwYt+Ono8Ka+oybh1pVEGQ==",
+  "dgSpecHash": "ZauYTUa3d84P8lNOELMQUS3ShP3usyV5XT5xQSZZdDAqDAeCDRgH5Ev7/BIKNsLFdt9yDyLalGE/EMCNPnzTDw==",
   "success": true,
-  "projectFilePath": "D:\\BSTU\\Программы\\OOP_2\\OOP_2\\OOP_2.csproj",
-=======
-  "dgSpecHash": "3VxPESX2yU98chNexHt2eg5Jf9b1CNLLzOqzSeCS07BhcLAD572HHUGWPMTjiP4p1RS7DbXfSrd7xiJamGkj1Q==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Еван\\OneDrive\\Рабочий стол\\jnf\\OOP_2\\OOP_2.csproj",
->>>>>>> 50f4302f1176bcdc00dd0f89f916b6f87671f377
+  "projectFilePath": "D:\\BSTU\\ООП\\OOP_2\\OOP_2\\OOP_2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
